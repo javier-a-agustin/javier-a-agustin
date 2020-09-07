@@ -3,7 +3,7 @@
 <!--
 **javier-a-agustin/javier-a-agustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Javier's github stats](https://github-readme-stats.vercel.app/api?username=javier-a-agustin)]
+
 
 Here are some ideas to get you started:
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Javier's github stats](https://github-readme-stats.vercel.app/api?username=javier-a-agustin)]
