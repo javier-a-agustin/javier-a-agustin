@@ -1,5 +1,5 @@
 ### Hi there 👋
-<button>Click me!</button>
+<button style="{background-color: red;}">Click me!</button>
 
 <!--
 **javier-a-agustin/javier-a-agustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
