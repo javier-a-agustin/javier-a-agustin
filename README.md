@@ -1,6 +1,6 @@
 ### Hi 
 My name is Javier, i'm a student and autodidact. 
-You can view my portfolio [here](jfernandez.tech) and my LinkedIn [here](https://www.linkedin.com/in/javier-a-agustin/).
+You can view my portfolio [here](http://jfernandez.tech/) and my LinkedIn [here](https://www.linkedin.com/in/javier-a-agustin/).
 
 I'm currently learning Django, Django Rest Framework and React js.
 <!--
